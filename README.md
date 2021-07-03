@@ -56,8 +56,8 @@ Chaitanya Sudhakar Shikhare
 MSc Data Analytics and Decision Science 
 
 ## Observations:
-
 Security Algorithms used: 
+
 experthead:e10adc3949ba59abbe56e057f20f883e – MD5
 interestec:25f9e794323b453885f5181f1b624d0b – MD5
 ortspoon:d8578edf8458ce06fbc5bb76a58c5ca4 –MD5
@@ -79,6 +79,7 @@ nabox:defebde7b6ab6f24d5824682a16c3ae4 - MD5
 bandalls:bdda5f03128bcbdfa78d8934529048cf - MD5
 
 Cracked Passwords:
+
 experthead:e10adc3949ba59abbe56e057f20f883e - 123456
 interestec:25f9e794323b453885f5181f1b624d0b - 123456789
 ortspoon:d8578edf8458ce06fbc5bb76a58c5ca4 - qwerty
